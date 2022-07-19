@@ -5,8 +5,11 @@
   "topics": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "teaching-for-sustainability"
+    "content": [
+      "841f80fc-fcc2-41e2-a8d5-97fc50b3f189",
+      "417dfdfc-18b6-470d-b801-17f8debc87f1"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
@@ -23,6 +26,8 @@
     "content": "",
     "website": "teaching-for-sustainability"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Readings"
+  ],
   "site_uid": "664db979-0ae9-421b-a470-f3b65b86596b"
 }
