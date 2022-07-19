@@ -11,9 +11,9 @@ uid: b457d883-6256-4cd9-949d-0ef7d2d4e215
 
 The class ran as four 2-hour sessions during MIT's Independent Activities Period in January 2022.
 
-## Content and Materials
+## Topics and Activities
 
-The goal of this class was to provide participants with the opportunity to connect sustainable pedagogies with their teaching practices. We have a variety of students with a variety of experiences teaching and we’d like to grow with each other during the next four weeks..
+The goal of this class was to provide participants with the opportunity to connect sustainable pedagogies with their teaching practices.
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
  
