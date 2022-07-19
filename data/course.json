@@ -1,8 +1,20 @@
 {
   "term": "January IAP",
   "year": "2022",
-  "level": [],
-  "topics": [],
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
@@ -16,7 +28,7 @@
     "website": "teaching-for-sustainability"
   },
   "course_title": "Teaching with Sustainability",
-  "course_description": "",
+  "course_description": "This resource presents materials associated with a four-week noncredit course taught during MIT's Independent Activities Period, along with a link to an online resource library designed to help educators find activities and lessons that align with the United Nations Sustainable Development Goals.",
   "department_numbers": [
     "RES"
   ],
