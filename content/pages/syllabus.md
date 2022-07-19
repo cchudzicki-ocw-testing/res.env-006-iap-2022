@@ -18,9 +18,9 @@ The goal of this class was to provide participants with the opportunity to conne
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Broad Topic for the Week
+**Broad Topic for the Week**
 {{< tdclose >}}{{< tdopen >}}
-Main Class Activity (subject to change)
+**Main Class Activity**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 1
 {{< tdclose >}}{{< tdopen >}}
