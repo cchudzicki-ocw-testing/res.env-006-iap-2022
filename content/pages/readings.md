@@ -17,19 +17,19 @@ World Commission on Environment and Development. (1987). Our common future. Oxfo
 
 [Education 2030 Incheon Declaration and Framework for SDG 4](http://uis.unesco.org/sites/default/files/documents/education-2030-incheon-framework-for-action-implementation-of-sdg4-2016-en_2.pdf)
 
-Christie, B. A., Miller, K. K., Cooke, R., & White, J. G. (2013). Environmental sustainability in higher education: how do academics teach? Environmental Education Research,19(3), 385–414. [https://doi.org/10.1080/13504622.2012.698598](https://doi.org/10.1080/13504622.2012.698598)
+Armstrong, Cosette Marie (2011). ["Implementing Education for Sustainable Development: The Potential Use of Time-Honored Pedagogical Practice for the Progressive Era of Education" (PDF).](http://www.jsedimensions.org/wordpress/wp-content/uploads/2011/03/Armstrong2011.pdf) *Journal of Sustainability Education* 2.
 
-Armstrong, C. M. (2011). Implementing education for sustainable development: The potential use of time-honored pedagogical practice for the progressive era of education. Journal of Sustainability Education, 2. [http://www.jsedimensions.org/wordpress/wp-content/uploads/2011/03/Armstrong2011.pdf](http://www.jsedimensions.org/wordpress/wp-content/uploads/2011/03/Armstrong2011.pdf)
+Christie, Belinda A., Kelly K. Miller, Raylene Cooke, and John G. White (2013). ["Environmental Sustainability in Higher Education: How Do Academics Teach?"](https://www.tandfonline.com/doi/abs/10.1080/13504622.2012.698598) *Environmental Education Research* 19(3): 385–414.
 
-Evans, N., Ferreira, J. (2020). What does the research evidence base tell us about the use and impact of sustainability pedagogies in initial teacher education? Environmental Education Research, 26(1), 27-42. https://doi.org/10.1080/13504622.2019.1703908
+Evans, Neus (Snowy), and Jo-Anne Ferreira (2020). ["What Does the Research Evidence Base Tell Us About the Use and Impact of Sustainability Pedagogies in Initial Teacher Education?"](https://www.tandfonline.com/doi/full/10.1080/13504622.2019.1703908) *Environmental Education Research* 26(1): 27–42.
 
 Cortese, A. D. (2003). The critical role of higher education in creating a sustainable future. Planning for Higher Education, 31(3), 15–22.
 
-Everett, J. (2008). Sustainability in higher education: Implications for the disciplines. School Field, 6(2), 237–251. https://doi.org/10.1177/1477878508091115
+Everett, J. (2008). Sustainability in higher education: Implications for the disciplines. School Field, 6(2), 237–251. [https://doi.org/10.1177/1477878508091115](https://doi.org/10.1177/1477878508091115)
 
 Sterling, S. (2011). Transformative learning and sustainability: Sketching the conceptual ground. Learning and Teaching in Higher Education, 5, 17-33.
 
-Weiss, M., Barth, M., Wiek, A., von Wehrden, H., (2021). Drivers and barriers of implementing sustainability curricula in higher education - Assumptions and evidence. Higher Education Studies, 11(2), 42-64. https://doi.org org/10.5539/ hes.v11n2p v11n2p42
+Weiss, M., Barth, M., Wiek, A., von Wehrden, H., (2021). Drivers and barriers of implementing sustainability curricula in higher education - Assumptions and evidence. Higher Education Studies, 11(2), 42-64. [https://doi.org](https://doi.org) org/10.5539/ hes.v11n2p v11n2p42
 
 Paris, D. (2012). Culturally sustaining pedagogy: A needed change in stance, terminology, and practice. Educational Researcher, 41(3), 93–97. [https://doi.org/10.3102/0013189X12441244](https://doi.org/10.3102/0013189X12441244)
 
@@ -37,4 +37,4 @@ Brundiers, K., Barth, M., Cebrián, G., Cohen, M., Diaz, L., Douchette-Remington
 
 Widhalm, B. (2011). Educators as architects of living systems: Designing vibrant learning experiences beyond sustainability and systems thinking. Journal of Sustainability Education, 2 [http://www.jsedimensions.org/wordpress/wp-content/uploads/2011/03/Widhalm2011.pdf](http://www.jsedimensions.org/wordpress/wp-content/uploads/2011/03/Widhalm2011.pdf)
 
-Redman, E., Murphy, C., Mancilla, Y., Mallon, B., Kater-Wettstaedt, L., Barth, M., Ortiz M. G., Smith, G., & Kelly, O. (2021). International scaling of sustainability continuing professional development for in-service teachers. Interdisciplinary Journal of Environmental and Science Education, 17(3), e2243. https://doi.org/10.21601/ijese/10936
+Redman, E., Murphy, C., Mancilla, Y., Mallon, B., Kater-Wettstaedt, L., Barth, M., Ortiz M. G., Smith, G., & Kelly, O. (2021). International scaling of sustainability continuing professional development for in-service teachers. Interdisciplinary Journal of Environmental and Science Education, 17(3), e2243. [https://doi.org/10.21601/ijese/10936](https://doi.org/10.21601/ijese/10936)
