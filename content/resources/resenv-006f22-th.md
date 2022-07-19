@@ -7,7 +7,7 @@ file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: people sitting around tables, listening to a lecturer (not pictured)
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
@@ -23,3 +23,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+Students in a class on permaculture. (Image courtesy of [Milkwood.net](https://www.flickr.com/photos/cicada/2629584647) on Flickr. License: CC BY-NC-SA.)
