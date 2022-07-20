@@ -27,7 +27,7 @@ Week 1
 What is sustainability education?
 {{< tdclose >}}{{< tdopen >}}
 
-Welcome Activity
+Welcome activity
 
 Jigsaw activity about the foundations of sustainability education
 
