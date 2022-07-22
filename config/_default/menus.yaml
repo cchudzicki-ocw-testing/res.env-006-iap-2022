@@ -7,7 +7,7 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 20
-- identifier: external-613464529-1658235368063
-  name: Online Resource
+- identifier: external-613464529-1658510416175
+  name: Online Library of Lessons and Activities
   url: https://scales.mit.edu/lessons-activities-search
   weight: 30
