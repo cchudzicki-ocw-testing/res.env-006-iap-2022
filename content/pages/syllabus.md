@@ -2,7 +2,8 @@
 content_type: page
 description: This page describes the overall goals of the course on teaching for sustainability
   that Dr. Potter-Nelson presented during the Independent Activities Period at MIT
-  in 2022.
+  in 2022. It also includes a table with links to lecture slide files, both in .pdf
+  and .pptx format.
 draft: false
 title: Syllabus and Course Materials
 uid: b457d883-6256-4cd9-949d-0ef7d2d4e215
