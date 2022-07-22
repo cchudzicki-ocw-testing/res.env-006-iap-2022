@@ -18,12 +18,6 @@ The goal of this class was to provide participants with the opportunity to conne
 
 Each student was asked to think about a lesson, activity, syllabus, whole course design, or other course product that they would like to workshop during the last session with others in our group
 
- 
-
-{{% resource_link "9f850f8f-c98c-4ca9-938e-776f0e9f731b" "Week 1 (.pdf)" %}}
-
- 
-
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
