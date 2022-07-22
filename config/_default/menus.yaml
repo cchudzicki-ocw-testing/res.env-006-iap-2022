@@ -3,11 +3,15 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
+- identifier: e7996406-d66a-4490-9294-5a935f85c3d7
+  name: Sorting Activity
+  url: /resources/mitres_env-006iap22sort
+  weight: 20
 - identifier: 0dd7fd37-e290-4e29-9624-914a9cd37f41
   name: Readings
   url: /pages/readings
-  weight: 20
+  weight: 30
 - identifier: external-613464529-1658235368063
   name: Online Resource
   url: https://scales.mit.edu/lessons-activities-search
-  weight: 30
+  weight: 40
