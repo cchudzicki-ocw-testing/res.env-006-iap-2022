@@ -35,9 +35,9 @@ Jigsaw activity about the foundations of sustainability education
 
 {{< tdclose >}}{{< tdopen >}}
 
-Week 1 lecture slides (.pptx)
+Week 1 (.pptx)
 
-Week 1 lecture slides (.pdf)
+Week 1 (.pdf)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 2
@@ -51,9 +51,9 @@ Brainstorm goals for students
 
 {{< tdclose >}}{{< tdopen >}}
 
-Week 2 lecture slides (.pptx)
+Week 2 (.pptx)
 
-Week 2 lecture slides (.pdf)
+Week 2 (.pdf)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 3
@@ -63,9 +63,9 @@ What is the connection between sustainability and teaching?
 Information about how to use sustainable pedagogies in your teaching practice
 {{< tdclose >}}{{< tdopen >}}
 
-Week 3 lecture slides (.pptx)
+Week 3 (.pptx)
 
-Week 3 lecture slides (.pdf)
+Week 3 (.pdf)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 4
@@ -75,9 +75,9 @@ How can I leverage this knowledge in my professional practice?
 Workshop to plan, discuss and work through course material(s)
 {{< tdclose >}}{{< tdopen >}}
 
-Week 4 lecture slides (.pptx)
+Week 4 (.pptx)
 
-Week 4 lecture slides (.pdf)
+Week 4 (.pdf)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
