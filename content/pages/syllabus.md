@@ -21,6 +21,8 @@ The goal of this class was to provide participants with the opportunity to conne
 **Broad Topic for the Week**
 {{< tdclose >}}{{< tdopen >}}
 **Main Class Activity**
+{{< tdclose >}}{{< tdopen >}}
+**Lecture slides**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 1
 {{< tdclose >}}{{< tdopen >}}
@@ -30,6 +32,12 @@ What is sustainability education?
 Welcome activity
 
 Jigsaw activity about the foundations of sustainability education
+
+{{< tdclose >}}{{< tdopen >}}
+
+Week 1 lecture slides (.pptx)
+
+Week 1 lecture slides (.pdf)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 2
@@ -41,18 +49,36 @@ Reflect on previous effective teachers
 
 Brainstorm goals for students
 
+{{< tdclose >}}{{< tdopen >}}
+
+Week 2 lecture slides (.pptx)
+
+Week 2 lecture slides (.pdf)
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 3
 {{< tdclose >}}{{< tdopen >}}
 What is the connection between sustainability and teaching?
 {{< tdclose >}}{{< tdopen >}}
 Information about how to use sustainable pedagogies in your teaching practice
+{{< tdclose >}}{{< tdopen >}}
+
+Week 3 lecture slides (.pptx)
+
+Week 3 lecture slides (.pdf)
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 4
 {{< tdclose >}}{{< tdopen >}}
 How can I leverage this knowledge in my professional practice?
 {{< tdclose >}}{{< tdopen >}}
 Workshop to plan, discuss and work through course material(s)
+{{< tdclose >}}{{< tdopen >}}
+
+Week 4 lecture slides (.pptx)
+
+Week 4 lecture slides (.pdf)
+
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Each student was asked to think about a lesson, activity, syllabus, whole course design, or other course product that they would like to workshop during the last session with others in our group.
