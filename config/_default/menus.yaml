@@ -11,13 +11,3 @@ leftnav:
   name: Online Library of Lessons and Activities
   url: https://scales.mit.edu/lessons-activities-search
   weight: 30
-- identifier: 58e40508-075a-4c5f-812a-e10e3ddb360c
-  name: Sorting Activity
-  parent: b457d883-6256-4cd9-949d-0ef7d2d4e215
-  url: /resources/mitres_env-006iap22sort2
-  weight: 10
-- identifier: 7fa0472c-87f5-436c-922d-b3fd371c4e1c
-  name: List of Activities
-  parent: b457d883-6256-4cd9-949d-0ef7d2d4e215
-  url: /resources/mitres_env-006iap22list
-  weight: 20
