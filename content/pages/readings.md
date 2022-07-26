@@ -23,7 +23,7 @@ Everett, Jennifer (2008). ["Sustainability in Higher Education: Implications for
 
 Paris, Django (2012). ["Culturally Sustaining Pedagogy: A Needed Change in Stance, Terminology, and Practice" (PDF)](https://web.stanford.edu/class/linguist159/restricted/readings/Paris2012.pdf). *Educational Researcher* 41(3): 93–97.
 
-Redman, Erin, Cliona Murphy, Yasmany Mancilla, Ben Mallon, Lydia Kater-Wettstaedt, Matthias Barth, Gabriela Ortiz-Martínez, Greg Smith, and Orla Kelly (2021). ["International Scaling of Sustainability Continuing Professional Development for In-Service Teachers."](https://www.ijese.com/article/international-scaling-of-sustainability-continuing-professional-development-for-in-service-teachers-10936) (Gabriela Ortiz-Martínez ) *Interdisciplinary Journal of Environmental and Science Education* 17(3): e2243.
+Redman, Erin, Cliona Murphy, Yasmany Mancilla, Ben Mallon, Lydia Kater-Wettstaedt, Matthias Barth, Gabriela Ortiz-Martínez, Greg Smith, and Orla Kelly (2021). ["International Scaling of Sustainability Continuing Professional Development for In-Service Teachers."](https://www.ijese.com/article/international-scaling-of-sustainability-continuing-professional-development-for-in-service-teachers-10936) *Interdisciplinary Journal of Environmental and Science Education* 17(3): e2243.
 
 Sterling, Stephen (2011). ["Transformative Learning and Sustainability: Sketching the Conceptual Ground" (PDF)](https://dl.icdst.org/pdfs/files3/ce3bd9b5c8a4133cd2d81b507badbd85.pdf). *Learning and Teaching in Higher Education* 5: 17–33.
 
