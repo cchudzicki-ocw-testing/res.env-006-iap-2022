@@ -38,9 +38,9 @@ Jigsaw activity about the foundations of sustainability education
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "9f850f8f-c98c-4ca9-938e-776f0e9f731b" "Week 1 (.pdf)" %}}
+{{% resource_link "9f850f8f-c98c-4ca9-938e-776f0e9f731b" "Week 1 (PDF)" %}}
 
-{{% resource_link "95c2ebe0-decd-4483-8529-5cbdf3805fc5" "Week 1 (.pptx)" %}}
+{{% resource_link "95c2ebe0-decd-4483-8529-5cbdf3805fc5" "Week 1 (PPTX)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 2
@@ -54,9 +54,9 @@ Brainstorm goals for students
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "ce63467b-41d3-4e17-b3bf-28582956283f" "Week 2 (.pdf)" %}}
+{{% resource_link "ce63467b-41d3-4e17-b3bf-28582956283f" "Week 2 (PDF)" %}}
 
-{{% resource_link "457d5cd9-09d8-459a-b0fe-c5b662016558" "Week 2 (.pptx)" %}}
+{{% resource_link "457d5cd9-09d8-459a-b0fe-c5b662016558" "Week 2 (PPTX)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 3
@@ -66,9 +66,9 @@ What is the connection between sustainability and teaching?
 Information about how to use sustainable pedagogies in your teaching practice
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "c8645fbd-abd4-4e25-8ddc-3faa6e17517d" "Week 3 (.pdf)" %}}
+{{% resource_link "c8645fbd-abd4-4e25-8ddc-3faa6e17517d" "Week 3 (PDF)" %}}
 
-{{% resource_link "3c92517c-99ad-428b-ba82-f0572e883fd1" "Week 3 (.pptx)" %}}
+{{% resource_link "3c92517c-99ad-428b-ba82-f0572e883fd1" "Week 3 (PPTX)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 4
@@ -78,8 +78,8 @@ How can I leverage this knowledge in my professional practice?
 Workshop to plan, discuss, and work through course material(s)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "43e08dcf-6052-4f74-83e0-4bbbb05b0a80" "Week 4 (.pdf)" %}}
+{{% resource_link "43e08dcf-6052-4f74-83e0-4bbbb05b0a80" "Week 4 (PDF)" %}}
 
-{{% resource_link "74dec44f-d299-49fd-b91c-0a77f4afc80a" "Week 4 (.pptx)" %}}
+{{% resource_link "74dec44f-d299-49fd-b91c-0a77f4afc80a" "Week 4 (PPTX)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
