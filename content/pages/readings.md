@@ -35,10 +35,10 @@ Widhalm, Barbara (2011). ["Educators as Architects of Living Systems: Designing 
 
 [The Earth Charter](https://earthcharter.org/read-the-earth-charter/download-the-charter/)
 
-[Our Common Future](https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf) (Report of the World Commission on Environment and Development)
+[Our Common Future (PDF)](https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf) (Report of the World Commission on Environment and Development)
 
 UNESCO's [Roadmap for Implementing the Global Action Programme on Education for Sustainable Development](https://unesdoc.unesco.org/ark:/48223/pf0000230514)
 
-UNESCO's [Education for Sustainable Development Goals Learning Objectives](https://www.unesco.de/sites/default/files/2018-08/unesco_education_for_sustainable_development_goals.pdf)
+UNESCO's [Education for Sustainable Development Goals Learning Objectives (PDF)](https://www.unesco.de/sites/default/files/2018-08/unesco_education_for_sustainable_development_goals.pdf)
 
 UNESCO's [Education 2030 Incheon Declaration and Framework for Action for the Implementation of Sustainable Development Goal 4](https://unesdoc.unesco.org/ark:/48223/pf0000245656)
