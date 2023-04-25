@@ -2,7 +2,7 @@
 content_type: page
 description: This page presents an embedded podcast episode in which Dr. Liz-Potter-Nelson
   and Sarah Meyers discuss their efforts to promote sustainable practices in education.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 9eef4f2d-e411-41ff-9741-7793c00e5365
 ---
